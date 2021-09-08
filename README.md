@@ -1,5 +1,5 @@
 ### <h1 align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=E6D9F7&lines=Hello!+I'm+Estefanía!"/>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=Hello!+I'm+Estefan%C3%ADa!+"/>
 </h1>
 <h3 align="center"> A Full Stack Web Developer from Argentina.</h3>
 <br/>
