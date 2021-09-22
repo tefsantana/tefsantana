@@ -1,7 +1,7 @@
 <h1 align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=Hello!+I'm+Estefan%C3%ADa!+"/>
 </h1>
-<h3 align="center"> A Full Stack Web Developer from Argentina.</h3>
+<h3 align="center"> A Full-stack Web Developer from Argentina.</h3>
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tefsantana&show_icons=true&theme=radical)
